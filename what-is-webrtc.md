@@ -1,6 +1,8 @@
 # What is WebRTC
 
-![WebRTC Logo](http://www.webrtc.org/_/rsrc/1318870658554/config/customLogo.gif "WebRTC Logo")
+We have a series of blog posts to release on WebRTC and this first one, attempts to answer the question **What is WebRTC** ?
+
+<img class="alignleft" alt="WebRTC Logo" src="http://www.webrtc.org/_/rsrc/1318870658554/config/customLogo.gif" width="243" height="41" />
 
 <blockquote>"WebRTC is a free, open project that enables web browsers with Real-Time Communications (RTC) capabilities via simple Java script APIs. The WebRTC components have been optimized to best serve this purpose." <a href="http://webrtc.org" target="_top">WebRTC</a></blockquote>
 WebRTC allows real time peer to peer audio visual communication via a HTML5 compliant browser. Not all browsers have WebRTC capability at present. At the time of writing over 50% of browser support will be available for WebRTC in the coming months, this includes Chrome, Firefox and Opera  with Internet Explorer following with their version CU-RTC-WEB in early 2013. There are no plugins required for WebRTC to work and no expensive pieces of hardware either. Just a WebRTC enabled browser, a camera (which is often quite standard on all new laptops), a mic/headset or mic/speakers and your real time communication available to you.
