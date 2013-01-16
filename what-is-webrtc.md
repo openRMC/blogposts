@@ -1,6 +1,6 @@
 # What is WebRTC
 
-We have a series of blog posts to release on WebRTC and this first one, attempts to answer the question **What is WebRTC** ?
+We have a series of blog posts to release on WebRTC, who is driving WebRTC, Why do we need WebRTC, When and where will it be seen and the Future benefits and possibilities. However first up is an attempt to answer the question **What is WebRTC** ?
 
 ![WebRTC Logo](http://www.webrtc.org/_/rsrc/1318870658554/config/customLogo.gif "WebRTC Logo")
 
