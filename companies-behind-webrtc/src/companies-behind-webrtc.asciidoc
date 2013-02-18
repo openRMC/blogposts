@@ -1,0 +1,30 @@
+:reporttype:    BlogPost openRMC-2013
+:reporttitle:   Companies behind WebRTC
+:author:        Brendan O'Farrell
+:email:         bofarrell@tssg.org
+:group:         
+:address:       
+:revdate:       September 21, 2012
+:revnumber:     N/A
+:docdate:       September 21,2012 14, 2012
+:description:   Companies behind WebRTC.
+:legal:         LICENSE.txt
+:encoding:      iso-8859-1
+:toc:
+
+include::../../resources/webrtc-docs/docs/research-notes/webrtc-companies-behind-it-content/src/webrtc-companies_introduction.asciidoc[]
+
+include::../../resources/webrtc-docs/docs/research-notes/webrtc-google/src/webrtc-google.asciidoc[]
+
+include::../../resources/webrtc-docs/docs/research-notes/webrtc-mozilla/src/webrtc-mozilla.asciidoc[]
+
+include::../../resources/webrtc-docs/docs/research-notes/webrtc-opera/src/webrtc-opera.asciidoc[] 
+
+include::../../resources/webrtc-docs/docs/research-notes/webrtc-microsoft/src/webrtc-microsoft.asciidoc[] 
+
+include::../../resources/webrtc-docs/docs/research-notes/webrtc-safari/src/webrtc-safari.asciidoc[]
+
+== Conclusion ==
+Allowing audio and video codecs to be open sourced under a very lenient open source license has made it very attractive to place WebRTC into commercial products. With Goggle, Microsoft, Opera and Mozilla backing WebRTC it would seem that all is well in the browser world. But until all the standards have been set by W3C and IETF, and adapted by all interested parties we won't celebrate the dawn of a new communication phase just yet.
+
+Aside from all the political posturing, WebRTC is here to stay. It will bring great innovation, vast commercial opportunities and most importantly real time communication for everyone.
