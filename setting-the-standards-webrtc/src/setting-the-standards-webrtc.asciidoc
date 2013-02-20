@@ -1,0 +1,23 @@
+:reporttype:    BlogPost openRMC-2013
+:reporttitle:   Setting the Standards for WebRTC
+:author:        Brendan O'Farrell
+:email:         bofarrell@tssg.org
+:group:         
+:address:       
+:revdate:       September 21, 2012
+:revnumber:     N/A
+:docdate:       September 21,2012 
+:description:   Companies behind WebRTC.
+:legal:         LICENSE.txt
+:encoding:      iso-8859-1
+:toc:
+
+include::../../../resources/webrtc-docs/docs/research-notes/webrtc-standard-organisations-content/src/webrtc-standard-organisations_introduction.asciidoc[]
+
+include::../../../resources/webrtc-docs/docs/research-notes/webrtc-w3c-content/src/webrtc-w3c-content.asciidoc[]
+
+include::../../../resources/webrtc-docs/docs/research-notes/webrtc-ietf/src/webrtc-ietf.asciidoc[]
+
+
+== Conclusion ==
+The W3C WebRTC WG are actively working on 2 documents for the Media Capture & Streams and MediaStream Recording, while the  IETF RTCWeb WG have 9 active draft documents in play at the moment.  Until all the standards have been set by W3C and IETF, and adapted by all interested parties we won’t celebrate the dawn of a new communication phase just yet.
