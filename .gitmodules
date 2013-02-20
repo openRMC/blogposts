@@ -1,0 +1,3 @@
+[submodule "resources/webrtc-docs"]
+	path = resources/webrtc-docs
+	url = git@github.com:openRMC/webrtc-docs.git
